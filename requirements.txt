@@ -1,0 +1,8 @@
+nodriver
+requests
+pyautogui
+pywin32
+pytz
+PyYAML
+python-dateutil
+beautifulsoup4
